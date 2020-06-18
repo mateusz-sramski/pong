@@ -97,3 +97,5 @@ while True:
         ball.dx *= -1
 
 # dodana linijka w nowym branchu
+
+# jest godzina 19:49
